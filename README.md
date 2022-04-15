@@ -7,5 +7,5 @@
     1) Install Xampp and start both **_APACHE_** server and **_MYSQL **_
     2) Create a new Database in phpMYadmin and name it as**"_eventmgmt_"**
     3) Once the database is created import the**_ event.sql_** file from the project folder to the new database created.
-    4) Now open a new tab in your browser and type** _localhost/__"project folder name"_**. The "project folder name" is the name that you give to the project folder when you download it
+    4) Now open a new tab in your browser and type** localhost/"project folder name"**. The "project folder name" is the name that you give to the project folder when you download it
     5) You will find the active project displayed after hitting enter with the url as mentioned above.
